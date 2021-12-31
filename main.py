@@ -1,6 +1,6 @@
 import time
 from scrap_aspen import get_metadata
-from database import get_date, format_data, write_json
+from database import get_date, format_data, github_access, write_json_git
 
 def main(title_prev=""):
     title, artist = get_metadata()
@@ -9,7 +9,8 @@ def main(title_prev=""):
             print(artist, "-", title)
             today = get_date()
             new_data = format_data(artist, title)
-            write_json(new_data, today, "prueba.json")
+            repo = github_access()
+            write_json_git(repo, new_data, today, "data.json")
         else:
             print(title, artist)
     
