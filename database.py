@@ -59,9 +59,6 @@ def write_json_git(repo, new_data, date, filename='data.json'):
         repo.create_file(filename, "create file via PyGithub", file_data)
 
 
-    return file_data
-
-
 #repo = github_access()
 #today = get_date()
 #new_data = format_data("yo", "tanguito")
