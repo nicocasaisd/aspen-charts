@@ -52,5 +52,11 @@
             "artist": "Nelly Furtado",
             "title": "I'm like a bird"
         }
+    ],
+    "2022-01-02": [
+        {
+            "artist": "Queen",
+            "title": "YouA\u00b4re My Best Friend"
+        }
     ]
 }
