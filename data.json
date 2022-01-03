@@ -1023,6 +1023,10 @@
         {
             "artist": "The Beatles",
             "title": "Here Comes The Sun"
+        },
+        {
+            "artist": "Ed Sheeran",
+            "title": "Sing"
         }
     ]
 }
