@@ -799,6 +799,10 @@
         {
             "artist": "The Beatles",
             "title": "Here, There And Everywhere"
+        },
+        {
+            "artist": "Queen",
+            "title": "YouA\u00b4re My Best Friend"
         }
     ]
 }
