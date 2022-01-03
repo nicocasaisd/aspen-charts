@@ -783,6 +783,10 @@
         {
             "artist": "Coldplay",
             "title": "In my place"
+        },
+        {
+            "artist": "Pink Floyd",
+            "title": "Comfortably Numb"
         }
     ]
 }
