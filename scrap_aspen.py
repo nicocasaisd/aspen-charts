@@ -35,6 +35,11 @@ def get_metadata():
         artist = False
         print("No hay canción sonando en la playlist.")
 
+    if title == "0":
+        title = False
+    elif title == "FM Aspen 102.3":
+        title = False
+        
     return title, artist
 
 if __name__ == "__main__":
