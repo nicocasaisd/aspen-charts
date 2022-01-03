@@ -743,6 +743,10 @@
         {
             "artist": "Red Hot Chili Peppers",
             "title": "My Friends"
+        },
+        {
+            "artist": "Kenny Rogers",
+            "title": "The Gambler"
         }
     ]
 }
