@@ -1641,6 +1641,10 @@
         {
             "artist": "The Beatles",
             "title": "A Day In The Life"
+        },
+        {
+            "artist": "Creedence Clearwater Revival",
+            "title": "Proud Mary"
         }
     ]
 }
