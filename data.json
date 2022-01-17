@@ -9139,6 +9139,10 @@
         {
             "artist": "Adele",
             "title": "Hello"
+        },
+        {
+            "artist": "Terence Trent D\\Arby",
+            "title": "Sign Your Name"
         }
     ]
 }
