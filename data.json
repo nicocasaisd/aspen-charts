@@ -14475,6 +14475,340 @@
         {
             "artist": "Madness",
             "title": "It Must Be Love"
+        },
+        {
+            "artist": "Belinda Carlisle",
+            "title": "Heaven Is A Place on Earth"
+        },
+        {
+            "artist": "Maroon 5",
+            "title": "This Love"
+        },
+        {
+            "artist": "Janet Jackson",
+            "title": "Together Again"
+        },
+        {
+            "artist": "Rick James",
+            "title": "Super freak"
+        },
+        {
+            "artist": "Sting",
+            "title": "Englishman In New York"
+        },
+        {
+            "artist": "Eric Clapton",
+            "title": "Layla (Acoustic)"
+        },
+        {
+            "artist": "Billy Joel",
+            "title": "Allentown"
+        },
+        {
+            "artist": "Fun.",
+            "title": "We Are Young  Feat. Janelle MonA\u00a1e"
+        },
+        {
+            "artist": "Garbage",
+            "title": "Stupid Girl"
+        },
+        {
+            "artist": "Kylie Minogue",
+            "title": "There Must Be An Angel (Playing Whit My Heart) (Live)"
+        },
+        {
+            "artist": "Phil Collins",
+            "title": "Sussudio"
+        },
+        {
+            "artist": "Duran Duran",
+            "title": "Girls On Film"
+        },
+        {
+            "artist": "Spagna",
+            "title": "Call Me"
+        },
+        {
+            "artist": "Rod Stewart",
+            "title": "Baby Jane"
+        },
+        {
+            "artist": "Lorde",
+            "title": "Royals"
+        },
+        {
+            "artist": "Queen",
+            "title": "Fat Bottomed Girls"
+        },
+        {
+            "artist": "Genesis",
+            "title": "Thats All!"
+        },
+        {
+            "artist": "Elton John",
+            "title": "Healing Hands"
+        },
+        {
+            "artist": "David Bowie",
+            "title": "Modern Love"
+        },
+        {
+            "artist": "Tina Turner",
+            "title": "Let's Stay Together"
+        },
+        {
+            "artist": "Oasis",
+            "title": "DonA\u00b4t Look Back In Anger"
+        },
+        {
+            "artist": "Joan Jett &amp; The Blackhearts",
+            "title": "I Love Rock 'N Roll"
+        },
+        {
+            "artist": "The Kooks",
+            "title": "Junk Of The Heart (Happy)"
+        },
+        {
+            "artist": "ABBA",
+            "title": "Mamma mia"
+        },
+        {
+            "artist": "Portugal. The Man",
+            "title": "Feel It Still"
+        },
+        {
+            "artist": "KISS",
+            "title": "Shandi"
+        },
+        {
+            "artist": "Bobby McFerrin",
+            "title": "DonA\u00b4t Worry Be Happy"
+        },
+        {
+            "artist": "Simply Red",
+            "title": "Stars"
+        },
+        {
+            "artist": "Duran Duran",
+            "title": "(Reach up for the) Sunrise"
+        },
+        {
+            "artist": "Bob Marley &amp; The Wailers",
+            "title": "Could You Be Loved"
+        },
+        {
+            "artist": "Bryan Ferry",
+            "title": "Slave To Love"
+        },
+        {
+            "artist": "Pink Floyd",
+            "title": "Money"
+        },
+        {
+            "artist": "Genesis",
+            "title": "Invisible Touch"
+        },
+        {
+            "artist": "John Farnham",
+            "title": "You're The Voice"
+        },
+        {
+            "artist": "Lynyrd Skynyrd",
+            "title": "Sweet Home Alabama"
+        },
+        {
+            "artist": "Madonna",
+            "title": "True Blue"
+        },
+        {
+            "artist": "The Killers",
+            "title": "Bones"
+        },
+        {
+            "artist": "Red Hot Chili Peppers",
+            "title": "My Friends"
+        }
+    ],
+    "2022-02-10": [
+        {
+            "artist": "Camouflage",
+            "title": "Love Is A Shield"
+        },
+        {
+            "artist": "Camouflage",
+            "title": "Love Is A Shield"
+        },
+        {
+            "artist": "Chris de Burgh",
+            "title": "Missing You"
+        },
+        {
+            "artist": "Tom Petty",
+            "title": "Learning To Fly"
+        },
+        {
+            "artist": "Gazebo",
+            "title": "I Like Chopin"
+        },
+        {
+            "artist": "Ed Sheeran",
+            "title": "Shivers (Con ID ASPEN)"
+        },
+        {
+            "artist": "A-Ha",
+            "title": "Hunting High And Low"
+        },
+        {
+            "artist": "Metallica",
+            "title": "Nothing Else Matters"
+        },
+        {
+            "artist": "John Lennon",
+            "title": "Beautiful boy"
+        },
+        {
+            "artist": "Berlin",
+            "title": "Take My Breath Away"
+        },
+        {
+            "artist": "Israel Kamakawiwo\\ole",
+            "title": "Somewhere over the rainbow"
+        },
+        {
+            "artist": "Sade",
+            "title": "Kiss of life"
+        },
+        {
+            "artist": "Black",
+            "title": "Wonderful Life"
+        },
+        {
+            "artist": "Cyndi Lauper",
+            "title": "Time After Time"
+        },
+        {
+            "artist": "Elvis Presley",
+            "title": "Suspicious Minds"
+        },
+        {
+            "artist": "The Beatles",
+            "title": "In My Life"
+        },
+        {
+            "artist": "Frank Sinatra",
+            "title": "I've got you under my skin"
+        },
+        {
+            "artist": "Peter Cetera",
+            "title": "Glory Of Love"
+        },
+        {
+            "artist": "Debbie Gibson",
+            "title": "Lost In Your Eyes"
+        },
+        {
+            "artist": "Bee Gees",
+            "title": "To Love Somebody"
+        },
+        {
+            "artist": "Maroon 5",
+            "title": "Won't Go Home Without You"
+        },
+        {
+            "artist": "Bryan Adams",
+            "title": "Have You Ever Really Loved A Woman?"
+        },
+        {
+            "artist": "Queen",
+            "title": "Love Of My Life (live)"
+        },
+        {
+            "artist": "Air Supply",
+            "title": "Lost In Love"
+        },
+        {
+            "artist": "Foreigner",
+            "title": "I Want To Know What Love Is"
+        },
+        {
+            "artist": "Moby",
+            "title": "Porcelain"
+        },
+        {
+            "artist": "Rod Stewart",
+            "title": "The first cut is the deepest"
+        },
+        {
+            "artist": "Jack Johnson",
+            "title": "Upside Down"
+        },
+        {
+            "artist": "Kansas",
+            "title": "Dust In The Wind"
+        },
+        {
+            "artist": "Bon Jovi",
+            "title": "This Ain't A Love Song"
+        },
+        {
+            "artist": "Spandau Ballet",
+            "title": "Through The Barricades"
+        },
+        {
+            "artist": "Sting",
+            "title": "Fragile"
+        },
+        {
+            "artist": "Mariah Carey",
+            "title": "I'll Be There (Live)"
+        },
+        {
+            "artist": "Elton John",
+            "title": "Rocket Man"
+        },
+        {
+            "artist": "Alannah Myles",
+            "title": "Black Velvet"
+        },
+        {
+            "artist": "Supertramp",
+            "title": "Breakfast In America (Live)"
+        },
+        {
+            "artist": "Gloria Estefan",
+            "title": "Don't Wanna Lose You"
+        },
+        {
+            "artist": "Howard Jones",
+            "title": "No One Is To Blame"
+        },
+        {
+            "artist": "Synch",
+            "title": "Where Are You Now"
+        },
+        {
+            "artist": "Pink Floyd",
+            "title": "Comfortably Numb"
+        },
+        {
+            "artist": "The Beatles",
+            "title": "And I Love Her"
+        },
+        {
+            "artist": "Blind Melon",
+            "title": "No Rain"
+        },
+        {
+            "artist": "Kenny Loggins",
+            "title": "Meet Me Half Way"
+        },
+        {
+            "artist": "Air Supply",
+            "title": "Aqui estoy"
+        },
+        {
+            "artist": "Nilsson",
+            "title": "Without You"
         }
     ]
 }
